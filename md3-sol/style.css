@@ -1,0 +1,12 @@
+body{
+    font-size: 16px;
+    color: darkmagenta;
+    background-color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header-nav{
+    background-color: deeppink;
+    border-radius: 0;
+    border: 0;
+}
